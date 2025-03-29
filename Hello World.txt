@@ -1,6 +1,2 @@
 Hello World
-<<<<<<< HEAD
-hello Everyone! Have a nice day!
-=======
-hello Everyone! Great!
->>>>>>> aac5c3f20abbcaeb12233a4aca206c22add0a84e
+hello Everyone! Have a nice day. Great!
